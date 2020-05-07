@@ -1,0 +1,29 @@
+void add_to_repo()
+    {
+        Evidence evidence1 = Evidence("id1", "kg", 10, 10, "photo1");
+        Evidence evidence2 = Evidence("id2", "g", 10, 17, "photo2");
+        Evidence evidence3 = Evidence("id3", "g", 10, 5, "photo3");
+        Evidence evidence4 = Evidence("id4", "m", 10, 0, "photo4");
+        Evidence evidence5 = Evidence("id5", "l", 10, 1, "photo5");
+        Evidence evidence6 = Evidence("id6", "cm", 10, 6, "photo6");
+        Evidence evidence7 = Evidence("id7", "dm", 10, 17, "photo7");
+        Evidence evidence8 = Evidence("id8", "cm", 10, 19, "photo8");
+        Evidence evidence9 = Evidence("id9", "kg", 10, 20, "photo9");
+        Evidence evidence10 = Evidence("id10", "g", 10, 0, "photo10");
+        Evidence evidence11 = Evidence("id11", "km", 10, 1, "photo11");
+
+
+        this->controller.addEvidence_ctrl(evidence1);
+        this->controller.addEvidence_ctrl(evidence2);
+        this->controller.addEvidence_ctrl(evidence3);
+        this->controller.addEvidence_ctrl(evidence4);
+        this->controller.addEvidence_ctrl(evidence5);
+        this->controller.addEvidence_ctrl(evidence6);
+        this->controller.addEvidence_ctrl(evidence7);
+        this->controller.addEvidence_ctrl(evidence8);
+        this->controller.addEvidence_ctrl(evidence9);
+        this->controller.addEvidence_ctrl(evidence10);
+        this->controller.addEvidence_ctrl(evidence11);
+
+
+    }

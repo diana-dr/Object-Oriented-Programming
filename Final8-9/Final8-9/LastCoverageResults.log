@@ -1,0 +1,21 @@
+[2019-05-13 19:22:54] [info] Start Program:
+Path:"C:\Users\Diana\source\repos\Final8-9\Debug\Final8-9.exe"
+Arguments:
+Working directory: "C:\Users\Diana\source\repos\Final8-9\Final8-9\"
+Modules: Selected: C:\Users\Diana\source\repos\Final8-9\Debug\Final8-9.exe Excluded: 
+Sources: Selected: C:\Users\Diana\source\repos\Final8-9\Final8-9 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Diana\AppData\Local\Temp\bivhqy2j.jil 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-13 19:22:54] [info] Module: C:\Users\Diana\source\repos\Final8-9\Debug\Final8-9.exe is selected because it matches selected pattern: C:\Users\Diana\source\repos\Final8-9\Debug\Final8-9.exe
+[2019-05-13 19:22:54] [info] ----------------------------------------------------
+[2019-05-13 19:22:54] [info] Coverage binary generated in file: C:\Users\Diana\AppData\Local\Temp\bivhqy2j.jil
+[2019-05-13 19:22:54] [info] ----------------------------------------------------

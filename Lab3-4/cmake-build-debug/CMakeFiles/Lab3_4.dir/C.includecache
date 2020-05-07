@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/OperationStack.h
+domain.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/domain.h
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/controller.h
+repository.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/repository.h
+OperationStack.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/OperationStack.h
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/domain.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/dynamic_array.h
+domain.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/domain.h
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/repository.h
+dynamic_array.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/dynamic_array.h
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/ui.c
+ui.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/ui.h
+
+/Users/dianadragos/Desktop/OOP/Lab3-4/ui.h
+controller.h
+/Users/dianadragos/Desktop/OOP/Lab3-4/controller.h
+

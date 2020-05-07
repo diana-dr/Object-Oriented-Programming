@@ -1,0 +1,3 @@
+/Users/dianadragos/Desktop/OOP/Lab2/6_a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dianadragos/Desktop/OOP/Lab2/6_a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dianadragos/Desktop/OOP/Lab2/6_a/cmake-build-debug/CMakeFiles/6_a.dir

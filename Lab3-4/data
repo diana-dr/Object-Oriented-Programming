@@ -1,0 +1,21 @@
+void addInitialFiles(UI* user_interface)
+{
+    Document *file1 = createDocument(1291, "extremely deteriorated", "article", 1855);
+    Document *file2 = createDocument(6902, "deteriorated", "lecture", 1950);
+    Document *file3 = createDocument(5678, "new", "manual", 2006);
+    Document *file4 = createDocument(7876, "deteriorated", "glossary", 1989);
+    Document *file5 = createDocument(6172, "very deteriorated", "journal", 1899);
+    Document *file6 = createDocument(9991, "extremely deteriorated", "technical notes", 1930);
+    Document *file7 = createDocument(8181, "new", "yearbook", 2015);
+    Document *file8 = createDocument(7171, "deteriorated", "notebook", 1955);
+
+    addFile_controller(user_interface->controller, file1);
+    addFile_controller(user_interface->controller, file2);
+    addFile_controller(user_interface->controller, file3);
+    addFile_controller(user_interface->controller, file4);
+    addFile_controller(user_interface->controller, file5);
+    addFile_controller(user_interface->controller, file6);
+    addFile_controller(user_interface->controller, file7);
+    addFile_controller(user_interface->controller, file8);
+
+}
